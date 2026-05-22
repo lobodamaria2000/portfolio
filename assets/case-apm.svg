@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Recurring conference series preview</title>
+  <desc id="desc">Calendar-like grid representing recurring conference planning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#40375b"/>
+      <stop offset="1" stop-color="#2a897a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="125" y="110" width="950" height="680" rx="34" fill="#f8f4eb" opacity=".96" stroke="#ffffff" stroke-width="3"/>
+  <g stroke="#d8d0c3" stroke-width="2">
+    <rect x="235" y="195" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="385" y="195" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="535" y="195" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="685" y="195" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="835" y="195" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="235" y="310" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="385" y="310" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="535" y="310" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="685" y="310" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="835" y="310" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="235" y="425" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="385" y="425" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="535" y="425" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="685" y="425" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="835" y="425" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="235" y="540" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="385" y="540" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="535" y="540" width="112" height="80" rx="8" fill="#ffffff"/>
+    <rect x="685" y="540" width="112" height="80" rx="8" fill="#eef4f1"/>
+    <rect x="835" y="540" width="112" height="80" rx="8" fill="#ffffff"/>
+  </g>
+  <g fill="#2f8b7c">
+    <circle cx="253" cy="213" r="8"/><circle cx="403" cy="213" r="8"/><circle cx="553" cy="213" r="8"/><circle cx="703" cy="213" r="8"/><circle cx="853" cy="213" r="8"/>
+    <circle cx="253" cy="328" r="8"/><circle cx="403" cy="328" r="8"/><circle cx="553" cy="328" r="8"/><circle cx="703" cy="328" r="8"/><circle cx="853" cy="328" r="8"/>
+    <circle cx="253" cy="443" r="8"/><circle cx="403" cy="443" r="8"/><circle cx="553" cy="443" r="8"/><circle cx="703" cy="443" r="8"/><circle cx="853" cy="443" r="8"/>
+    <circle cx="253" cy="558" r="8"/><circle cx="403" cy="558" r="8"/><circle cx="553" cy="558" r="8"/><circle cx="703" cy="558" r="8"/><circle cx="853" cy="558" r="8"/>
+  </g>
+  <g stroke="#2f8b7c" stroke-width="4" stroke-linecap="round" opacity=".75">
+    <path d="M283 222H327"/><path d="M433 222H477"/><path d="M583 222H627"/><path d="M733 222H777"/><path d="M883 222H927"/>
+    <path d="M283 557H327"/><path d="M433 557H477"/><path d="M583 557H627"/><path d="M733 557H777"/><path d="M883 557H927"/>
+  </g>
+  <g stroke="#2f8b7c" stroke-width="4" opacity=".45">
+    <path d="M190 680 250 585"/><path d="M370 680 400 585"/><path d="M550 680 550 585"/><path d="M730 680 700 585"/><path d="M910 680 850 585"/>
+  </g>
+</svg>
